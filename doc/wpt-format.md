@@ -2,7 +2,7 @@
 
 ## What's WPT file?
 
-WPT file is a text file which includes data and pivot selections. WPT component 
+WPT file is a text file which includes data and pivot selections.  WPT component 
 allows users to save their data and pivot selections in a WPT file, then this file
 can be opened by WPT component anytime and everything will be exactly the same as
 when it saved.
@@ -235,3 +235,4 @@ The WPT format is pretty simple; it's just a string of JSON objects. Here is a s
         ],
         "view":"PIVOTTABLE"
     }
+
